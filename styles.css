@@ -1,0 +1,25 @@
+main {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    background-color: limegreen;
+    color: black;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding: 0.75rem; 
+}
+
+footer {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 1000;
+    background-color: limegreen;
+    color: black;
+    text-align: center;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    padding: 0.75rem;
+}
